@@ -1,5 +1,5 @@
-from pegasos import *
-from SGD import *
+from lab8.PEGASOS import *
+from lab8.SGD import *
 
 
 class User:
