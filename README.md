@@ -7,4 +7,4 @@
 
 ## Демонстрация возможностей программы
 
-Пример программы представлен в GoogleColab: https://colab.research.google.com/drive/1aw1XOUrtvDAQaHcPlmDljp0eypggfLxP?usp=sharing
+Пример программы представлен в GoogleColab: https://colab.research.google.com/drive/1J4X0Biz5weY1HCDNEK5DVFa5hLt5UH3e?usp=sharing
